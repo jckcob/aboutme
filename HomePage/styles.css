@@ -10,3 +10,15 @@ ul {
 li {
   margin: 15px 0;
 }
+
+.tab {
+  tab-size: 2;
+}
+
+.Code{
+  color: rgb(0, 243, 65);
+  background-color: #0d0d0d;
+  padding: 2px;
+  font-size: 105%;
+
+}
